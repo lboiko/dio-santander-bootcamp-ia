@@ -6,7 +6,7 @@
 
 <br>
 
-<i>Repositório criado para aramazenar as soluções dos desafios do Santander Bootcamp 2024 - Fundamentos de IA para Devs.
+<i>Repositório criado para armazenar as soluções dos desafios do Santander Bootcamp 2024 - Fundamentos de IA para Devs.
 <br>
 Oferecido pela plataforma DIO (Digital Innovation One) em parceira com o Banco Santander.</i></div>
 <br>
