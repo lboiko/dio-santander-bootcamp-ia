@@ -1,4 +1,6 @@
-# Criando um ebook com ChatGPT e Midjourney
+<div align="center"> <h1>Criando um ebook com ChatGPT e Midjourney</h1></div>
+
+
 
 <div align="center" width="250px">
 
@@ -16,7 +18,7 @@ pode conter erros gerados por uma IA.</i></p>
 
 -----
 <br>
-📕 O ebook está disponível<a href="#" title="View PDF now"> aqui</a> para leitura.<br>
+📕 O ebook está disponível<a href="https://github.com/lboiko/dio-santander-bootcamp-ia/blob/main/Desafio-ebook/output/ebook-pythons_wizardry_unleashing_data_spells.pdf" title="View PDF now"> aqui</a> para leitura.<br>
 <br>
 
 -----
@@ -47,5 +49,5 @@ DreamStudio:
 * Ebook gerado durante as aulas em `output`.
 * Conteúdo gerado via ChatGPT.
 * Imagens geradas via DreamStudio.
-* Imagens utilizadas em `assets` e hospedadas no Imgur.
+* Imagens utilizadas em `assets`.
 
