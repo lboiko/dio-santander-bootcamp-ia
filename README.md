@@ -13,4 +13,4 @@ Oferecido pela plataforma DIO (Digital Innovation One) em parceira com o Banco S
 
 <h1>PROJETOS ✅</h1>
 
-<a href=#>Criando um Ebook com ChatGPT & MidJourney</a>
+<a href="https://github.com/lboiko/dio-santander-bootcamp-ia/tree/main/Desafio-ebook">Criando um Ebook com ChatGPT & MidJourney</a>
