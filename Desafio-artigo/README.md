@@ -24,7 +24,7 @@ Criando Artigos Técnicos com ChatGPT e Lexica.art</h1></div>
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [DreamStudio](https://beta.dreamstudio.ai/) (Alternativa ao MidJourney, pois o mesmo necessita fazer subscrição)
+- [DreamStudio](https://beta.dreamstudio.ai/) (Alternativa ao lexica.art)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 - [Removebg](https://www.remove.bg/pt-br)
 
