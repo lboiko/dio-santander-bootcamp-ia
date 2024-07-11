@@ -17,6 +17,6 @@ Oferecido pela plataforma DIO (Digital Innovation One) em parceira com o Banco S
 <br>
 <a href="https://github.com/lboiko/dio-santander-bootcamp-ia/tree/main/Desafio-artigo">Criando Artigos Técnicos com ChatGPT e Lexica.art</a>
 <br>
-<a href="https://github.com/lboiko/dio-santander-bootcamp-ia/tree/main/Desafio-podcast">Criando um podcast com IAS Generativas</a>
+<a href="https://github.com/lboiko/dio-santander-bootcamp-ia/tree/main/Desafio-podcast">Criando um Podcast com IAS Generativas</a>
 <br>
 <a href="https://github.com/lboiko/dio-santander-bootcamp-ia/tree/main/desafio-ia-generativa">Desafio Natural ou Fake Natty? Como Vencer na Era das IAs Generativas</a>
